@@ -1,4 +1,5 @@
 Rencana Perubahan 2022
-- Rencana Perubahan Belum di Rancang
+- Sudah Ada Rancangan
 - Belum ada dalam FMIS
 - Belum ada Dalam System
+- RKA sudah ada di FMIS
